@@ -19,6 +19,11 @@ Python and Visual Component Tool
 Name - DEEKSHITHA S
 Reg No - 25014669
 Slot Name - 3P1-1
+
+
+
+
+
 import numpy as np 
 import math 
 import scipy.stats 
