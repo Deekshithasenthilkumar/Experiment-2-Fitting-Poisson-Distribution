@@ -20,10 +20,7 @@ Name - DEEKSHITHA S
 Reg No - 25014669
 Slot Name - 3P1-1
 
-
-
-
-
+```
 import numpy as np 
 import math 
 import scipy.stats 
@@ -75,6 +72,10 @@ if cal_chi2_sq < table_chi2:
     print("The given data can be fitted in Poisson Distribution at 1% LOS") 
 else: 
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
+```
+
+
+
 
 COLAB LINK - https://colab.research.google.com/drive/1rKnFGvAKVHKbBHziMIen2v343k2zZzgz?usp=sharing    
 
