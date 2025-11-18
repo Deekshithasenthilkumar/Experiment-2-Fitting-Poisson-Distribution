@@ -17,7 +17,9 @@ Python and Visual Component Tool
 
 # Program
 Name - DEEKSHITHA S
+
 Reg No - 25014669
+
 Slot Name - 3P1-1
 
 ```
@@ -83,24 +85,6 @@ COLAB LINK - https://colab.research.google.com/drive/1rKnFGvAKVHKbBHziMIen2v343k
 
 
 # Output
-
-9 9 9 8 8 8 7 7 5 6 3
-X   P(X=x)   Obs.Fr   Exp.Fr   xi
--------------------------------
- 0   0.001      0   0.01   0.008
- 1   0.005      0   0.06   0.060
- 2   0.020      0   0.22   0.216
- 3   0.047      1   0.52   0.453
- 4   0.084      0   0.93   0.927
- 5   0.121      1   1.33   0.083
- 6   0.145      1   1.59   0.221
- 7   0.149      2   1.64   0.081
- 8   0.133      3   1.47   1.599
- 9   0.106      3   1.17   2.854
--------------------------------
-Calculated value of Chi square is 6.5026
-Table value of Chi square at 1% level is 21.6660
-The given data can be fitted in Poisson Distribution at 1% LOS
 
 <img width="1127" height="376" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/3069ecd4-908b-4fd9-bfaf-965fc68b2281" />
 
